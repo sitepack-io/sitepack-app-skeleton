@@ -26,27 +26,24 @@ Start a new project using:
 sitepack app:init
 ```
 
-### 3. Development Workflow
-- **Run in development mode**:
-  ```bash
-  sitepack app:dev
-  ```
-- **Sync changes automatically**: Use the watch command to sync your local changes to SitePack in real-time.
-  ```bash
-  sitepack app:watch
-  ```
+Or checkout an existing app from your partner account:
+```bash
+sitepack app:checkout
+```
 
-### 4. Publish your app
+### 3. Publish your app
 When your app is ready for release:
 ```bash
 sitepack app:publish
 ```
 
-## App Distribution & Monetization
+## App Distribution & Marketplace Listing
 
-Apps can be configured with various visibility and pricing models through the Partner Portal:
-- **Visibility**: Private or Public.
-- **Plans**: 
+The listing for your app in the marketplace is managed through the [Partner Portal](https://sitepack.eu/partners). From there, you can:
+- **Manage Listing**: Update descriptions, screenshots, and other marketplace details.
+- **App Icon**: Upload and update the app icon that will be displayed in the marketplace.
+- **Visibility**: Set your app to Private or Public.
+- **Pricing Plans**: 
   - Free plans
   - One-time fee
   - Monthly recurring

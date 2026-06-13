@@ -24,4 +24,4 @@ SOFTWARE.
 
 **Disclaimer**
 
-SitePack provides this theme skeleton as-is for our customers and the open-source community. We do not provide any guarantees and are not responsible for any issues, damages, or data loss resulting from the use of this software.
+SitePack provides this app skeleton as-is for our customers and the open-source community. We do not provide any guarantees and are not responsible for any issues, damages, or data loss resulting from the use of this software.

@@ -1,5 +1,5 @@
 {
-  "id": "a-b-c-d",
+  "uuid": "a-b-c-d",
   "name": "Example app",
   "version": 1,
   "description": "A new SitePack application.",

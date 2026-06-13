@@ -1,0 +1,22 @@
+{
+  "id": "a-b-c-d",
+  "name": "Example app",
+  "version": 1,
+  "description": "A new SitePack application.",
+  "admin": {
+    "settings_type": "abstract",
+    "settings_schema": {
+      "type": "object",
+      "properties": {
+        "example_setting": {
+          "type": "string",
+          "title": "Example Setting",
+          "default": "value"
+        }
+      }
+    }
+  },
+  "blocks": [],
+  "scripts": [],
+  "webhooks": []
+}

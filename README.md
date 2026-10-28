@@ -26,10 +26,12 @@ Start a new project using:
 sitepack app:init
 ```
 
-Or checkout an existing app from your partner account:
+Already have the source of an app (for example from your own Git repository)? Link it to your organization instead:
 ```bash
-sitepack app:checkout
+sitepack app:link path/to/my-app
 ```
+
+Apps are only created with the CLI. SitePack does not hand the source back as a download, so keep your app directory in your own Git repository.
 
 ### 3. Publish your app
 When your app is ready for release:
